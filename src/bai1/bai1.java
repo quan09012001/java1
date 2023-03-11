@@ -2,6 +2,6 @@ package bai1;
 
 public class bai1 {
     public static void main(String[] args) {
-        System.out.println(100 + 100000);
+        System.out.println(1000 + 100000);
     }
 }
